@@ -6,7 +6,7 @@ The **COVID-19 Awareness Website** is a simple and informative platform built us
 
 ## 🌐 Live Demo
 
-🔗 [View the Website on Vercel](https://your-vercel-project-url.vercel.app)  
+🔗 [View the Website on Vercel](https://covid-19-awareness-website.vercel.app/)  
 *Replace the above link with your actual Vercel deployment URL.*
 
 ---
